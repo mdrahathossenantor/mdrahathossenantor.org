@@ -23,14 +23,18 @@ main {
 }
 
 .title {
-    margin-top: 2rem;
+    margin-top: 8rem;
     color: white;
     text-align: center;
-    font-size: 3rem;
+    font-size: 3.5rem;
+}
+
+#end-date {
+    margin-top: 2.5rem;
 }
 
 .col {
-    margin-top: 1.5rem;
+    margin-top: 2rem;
     width: 90%;
     display: flex;
     justify-content: center;
